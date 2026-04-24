@@ -9,6 +9,6 @@ Link dos gráficos:
 [Graficos-Power-BI](https://app.powerbi.com/view?r=eyJrIjoiMGUzYTIxMzktYTExZi00OGY2LThkM2ItMGVlYjk4ZTU5NzAzIiwidCI6ImRlZjQ0ZjhmLWFlM2EtNDA4MS1iY2EzLWYwODBhZDkzYTUxYyJ9) 
 
 Resultado:
-O profissonal pode se apoiar no gráfico para análise do paciente
+O profissonal pode se apoiar no gráfico para análise do paciente,
 Pode ajudar na tomada de decisão do paciente
 
