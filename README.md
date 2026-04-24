@@ -1,20 +1,20 @@
 # Graficos PowerBI
-Introdução:
+## Introdução:
 Nesse projeto temos gráficos feitos em power BI para apoio ao software desenvolvido chamado Cognitive focado na área de saúde mais precisamente na área de psicologia
 
-Objetivo:
-Análisar Dados em busca de inconsistências,
-Adicionar colunas no banco,
-Realização dos Gráficos,
-Escolher uma paleta de cores,
-Melhorar design dos gráficos,
+## Objetivo:
+Análisar Dados em busca de inconsistências<br>
+Adicionar colunas no banco<br>
+Realização dos Gráficos<br>
+Escolher uma paleta de cores<br>
+Melhorar design dos gráficos<br>
 Storytealling com os dados
 
-Link dos gráficos:
+## Link dos gráficos:
 [Graficos-Power-BI](https://app.powerbi.com/view?r=eyJrIjoiMGUzYTIxMzktYTExZi00OGY2LThkM2ItMGVlYjk4ZTU5NzAzIiwidCI6ImRlZjQ0ZjhmLWFlM2EtNDA4MS1iY2EzLWYwODBhZDkzYTUxYyJ9) 
 
-Resultado:
-Ajudar os profissonar a ter uma ideia mais detalhada
-O profissonal pode se apoiar no gráfico para análise do paciente,
+## Resultado:
+Ajudar os profissonar a ter uma ideia mais detalhada<br>
+O profissonal pode se apoiar no gráfico para análise do paciente<br>
 Pode ajudar na tomada de decisão do paciente
 
